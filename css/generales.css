@@ -6,7 +6,10 @@
 html {
     font-size: 62.5%;
 }
-
+.body {
+    max-width: 130rem;
+    margin: auto;
+}
 /*******************************
 # inicia la sección del header
 *******************************/
@@ -15,6 +18,7 @@ header{
     height: 50px;
     background-color: white;
     box-shadow: 0px 10px 5px rgb(230, 224, 224);
+    padding: 0 5rem;
 
     display: flex;
     justify-content: space-between;
@@ -27,7 +31,7 @@ header{
 /* Sección del navegador */
 .menu{
     list-style: none;
-    width: 35rem;
+    width: 30rem;
     color:rgb(63, 62, 62);
 
     display: flex;
