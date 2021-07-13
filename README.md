@@ -1,5 +1,6 @@
 # PROYECTO-M
-https://oreo-beep.github.io/PROYECTO-M/
+https://oreo-beep.github.io/Deosorio/
+
 
 Se añade el link para visualizar el proyecto
 Este proyecto se realizo con un control de versiones git, se crearon 3 ramas las cuales son *homepage o master *portafolio *footer cada uno tiene su propio .css, ademas que existe 
